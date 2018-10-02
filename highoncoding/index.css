@@ -1,0 +1,72 @@
+.navbar {
+  background-color:#23bcc6;
+  color:white;
+  width:100vw;
+  height:10%;
+  font-size:20px;
+  padding:30px;
+  padding-right:600px;
+  margin:10px;
+  display: block;
+  word-spacing:30px;
+}
+.navbar h3{
+  display:inline;
+}
+
+.navbar a{
+  color:white;
+}
+
+.navbar p{
+  display:inline;
+}
+.news {
+  background-color:lightgray;
+  /* height:100px; */
+  top:100px;
+  align-content:center;
+  padding:10px;
+  display:block;
+}
+
+.news h3 {
+  color:gray;
+  font-style:bold;
+  font-family:sans-serif;
+}
+
+.section {
+  margin:10px;
+  margin-bottom:5px;
+}
+
+.section h3 {
+  color:blue;
+  font-family:sans-serif;
+
+}
+
+.activity {
+  background-color:orange;
+  color: white;
+  padding:10px;
+
+}
+
+
+
+.grid-container {
+  width:100%;
+  max-width: 1200px;
+
+}
+
+.categ {
+  background-color:lightgray;
+  height:100px;
+  width:150px;
+  margin:10px;
+  padding:10px;
+  text-align:center;
+}
